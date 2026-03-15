@@ -65,7 +65,7 @@ COMSATS University Islamabad, Lahore Campus
 
 ## 🤝 Connect with Me
 - 🌐 [Portfolio](https://portfolio-25-coral-kappa.vercel.app/)  
-- 📬 Email: eeshansar9@mail.com  
+- 📬 Email: eeshansar9@gmail.com  
 - 💬 [LinkedIn](https://www.linkedin.com/in/eesha-ansar-017b78281/)
  
 
